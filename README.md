@@ -1,2 +1,1 @@
 # JapanRailwayAccident
-![image](title.jpg)
